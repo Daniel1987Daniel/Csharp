@@ -1,0 +1,27 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Convert.cs
+{
+    class Convert.cs
+    {
+        static void Main(string[] args)
+        {
+            //Napíš program, ktorý skonvertuje stringy na čísla. Dané skonvertované číslo uloží do premennej daného typu, 
+            //ktorý predstavuje čísla.
+
+            
+            string retazec1 = "789";
+
+            //int cislo0 = Convert.ToInt32(retazec0);
+            int cislo01 = Convert.ToInt32(retazec1);
+
+            Console.WriteLine(retazec1);
+
+            Console.Read();
+        }
+    }
+}
