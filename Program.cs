@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Count
 {
-    class Program
+    class Count
     {
         static void Main(string[] args)
         {
